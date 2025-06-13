@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'UFc',
+    'Como Charles do Bronx ira perder?',
+    'Nocaute no 2 round.'
 )
 
 criaCartao(
@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'UFC ',
     'Quantas vitorias o khabib Nurmagomedov tem?',
-    ' 29 sem perder nenhuma.(RAI)'
+    ' 29-0 .(RAI)'
 )
